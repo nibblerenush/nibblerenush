@@ -1,5 +1,6 @@
-# Contributions
-## Pull Requests
+# ⚡Contributions
+![contributions](./images/contributions.jpg)
+## 🟢 Pull Requests
 1. https://github.com/p4lang/behavioral-model/pull/1238
 2. https://github.com/antlr/antlr4/pull/4786
 3. https://github.com/abedra/libvault/pull/128
@@ -7,7 +8,7 @@
 5. https://github.com/ClickHouse/ClickHouse/pull/80073
 6. https://github.com/ClickHouse/ClickHouse/pull/81101
 7. https://github.com/ClickHouse/ClickHouse/pull/81284
-## Stack Overflow
+## 🟢 Stack Overflow
 1. https://stackoverflow.com/questions/43621322/cups-state-change-subscription/79436325#79436325
 
 <!--
