@@ -1,5 +1,3 @@
-# ⚡Contributions
-![contributions](./images/contributions.jpg)
 ## 🟢 Pull Requests
 1. https://github.com/p4lang/behavioral-model/pull/1238
 2. https://github.com/antlr/antlr4/pull/4786
