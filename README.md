@@ -6,6 +6,7 @@
 5. https://github.com/ClickHouse/ClickHouse/pull/80073
 6. https://github.com/ClickHouse/ClickHouse/pull/81101
 7. https://github.com/ClickHouse/ClickHouse/pull/81284
+8. https://github.com/qdrant/qdrant/pull/6993
 ## 🟢 Stack Overflow
 1. https://stackoverflow.com/questions/43621322/cups-state-change-subscription/79436325#79436325
 
