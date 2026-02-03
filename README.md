@@ -1,5 +1,7 @@
-## 🟢 Pull Requests
+# 🟢 Pull Requests
+## 2024
 1. https://github.com/p4lang/behavioral-model/pull/1238
+## 2025
 2. https://github.com/antlr/antlr4/pull/4786
 3. https://github.com/abedra/libvault/pull/128
 4. https://github.com/ClickHouse/ClickHouse/pull/79807
@@ -10,8 +12,10 @@
 9. https://github.com/qdrant/qdrant/pull/7251
 10. https://github.com/qdrant/qdrant/pull/7518
 11. https://github.com/qdrant/qdrant/pull/7797
+## 2026
 12. https://github.com/qdrant/qdrant/pull/8013
-## 🟢 Stack Overflow
+13. https://github.com/qdrant/qdrant/pull/8049
+# 🟢 Stack Overflow
 1. https://stackoverflow.com/questions/43621322/cups-state-change-subscription/79436325#79436325
 
 <!--
