@@ -19,6 +19,7 @@
 15. https://github.com/qdrant/qdrant/pull/8450
 16. https://github.com/qdrant/qdrant/pull/8565
 17. https://github.com/qdrant/qdrant/pull/8570
+18. https://github.com/qdrant/qdrant/pull/8587
 # 🟢 Stack Overflow
 1. https://stackoverflow.com/questions/43621322/cups-state-change-subscription/79436325#79436325
 
